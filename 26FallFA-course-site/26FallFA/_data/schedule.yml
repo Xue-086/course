@@ -1,0 +1,22 @@
+# 课程安排。没有文件的项目直接留空 ""，网页会自动隐藏对应按钮。
+- week: 1
+  dates: "09/01, 09/03"
+  topic_zh: "课程介绍"
+  topic_en: "Course Introduction"
+  lecture: ""
+  homework: ""
+
+- week: 2
+  dates: "09/08, 09/10"
+  topic_zh: "待更新"
+  topic_en: "To be announced"
+  lecture: ""
+  homework: ""
+
+# 示例：
+# - week: 3
+#   dates: "09/15, 09/17"
+#   topic_zh: "赋范线性空间与 Banach 空间"
+#   topic_en: "Normed Spaces and Banach Spaces"
+#   lecture: "lecture03.pdf"
+#   homework: 1

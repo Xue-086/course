@@ -1,0 +1,10 @@
+# 发布作业时，把 PDF 放进 files/homework/；答案放进 files/solutions/。
+# 然后取消下面示例的注释并修改。
+#
+# - id: 1
+#   title_zh: "作业 1"
+#   title_en: "Homework 1"
+#   file: "hw01.pdf"
+#   solution: ""
+#   note_zh: ""
+#   note_en: ""

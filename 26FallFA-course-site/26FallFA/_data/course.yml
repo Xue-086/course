@@ -1,0 +1,33 @@
+code: "MATH3004.02"
+semester_zh: "2026 秋季学期"
+semester_en: "Fall 2026"
+
+title_zh: "泛函分析"
+title_en: "Functional Analysis"
+
+teacher_zh: "刘聪文"
+teacher_en: "Congwen Liu"
+
+school_zh: "中国科学技术大学 数学科学学院"
+school_en: "School of Mathematical Sciences, USTC"
+
+summary_zh: "刘聪文老师《泛函分析》课程主页，收录课程公告、讲义、作业与习题课材料。"
+summary_en: "Course website for Functional Analysis, including announcements, lecture notes, homework and tutorial materials."
+
+class_time_zh: "周二第 3–4 节、周四第 6–7 节"
+class_time_en: "Tuesday periods 3–4; Thursday periods 6–7"
+
+classroom_zh: "2121 教室"
+classroom_en: "Room 2121"
+
+textbook_zh: "张恭庆，《泛函分析讲义》"
+textbook_en: "Zhang Gongqing, Functional Analysis Lecture Notes"
+
+reference_zh: "Stein, Functional Analysis"
+reference_en: "Stein, Functional Analysis"
+
+# 确定后再取消下面两项的注释；留空时网页不会显示。
+# submission_zh: "..."
+# submission_en: "..."
+# contact_zh: "..."
+# contact_en: "..."

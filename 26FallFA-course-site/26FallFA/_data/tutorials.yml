@@ -1,0 +1,7 @@
+# 习题课讲义放进 files/tutorials/。
+# 示例：
+#
+# - date: "2026-09-11"
+#   title_zh: "习题课 1"
+#   title_en: "Tutorial 1"
+#   file: "tutorial01.pdf"
